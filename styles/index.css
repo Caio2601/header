@@ -10,7 +10,6 @@
 
 header{
     width: 100%;
-    display: flex;
     
 }
 
@@ -74,7 +73,7 @@ header .header1 > input{
     text-align: center;
     font-family: Inter;
     margin-top: 45px;
-    margin-left: 1.8rem;
+    margin-left: 2rem;
     background-color: #C92071;
     border: none;
     border-radius: 7px;
@@ -96,13 +95,13 @@ header .header1 > input{
 
 
 
-nav .navbar > a{
+.navbar > a{
     margin-right: 2rem;
     color: #474747;
 
 }
 
-nav .navbar .home{
+.navbar .home{
     border-bottom: 1px solid #C92071;
     color: #C92071;
     ;
